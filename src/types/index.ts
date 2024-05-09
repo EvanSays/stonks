@@ -1,0 +1,1 @@
+export type { Data, TickerPrice } from './stockApi';
